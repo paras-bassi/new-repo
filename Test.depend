@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1524847276 source:c:\users\paras\desktop\huffman\test\huffmanencoding.cpp
+	<bits/stdc++.h>
+	<map>
+	<set>
+	<string>
+	<iostream>
+	<iterator>
+	<iostream>
+
+1524847426 source:c:\users\paras\desktop\huffman\test\main.cpp
+	<map>
+	<set>
+	<string>
+	<iostream>
+	<iterator>
+	"HuffmanEncoding.cpp"
+
+1524844209 c:\users\paras\desktop\huffman\test\huffmandecoding.cpp
+	<bits/stdc++.h>
+	"HuffmanEncoding.cpp"
+
+1524847643 c:\users\paras\desktop\huffman\test\huffmanencoding.cpp
+	<bits/stdc++.h>
+	<map>
+	<set>
+	<string>
+	<iostream>
+	<iterator>
+	<iostream>
+
+1524845670 source:c:\users\paras\desktop\huffman\test\huffmandecoding.cpp
+	<bits/stdc++.h>
+
