@@ -12,7 +12,7 @@
 			<width>1</width>
 		</LineStyle>
 	</Style>
-	<Style id="LineStyle00">
+	<Style id="LineStyle01">
 		<LabelStyle>
 			<color>915ec500</color>
 			<scale>1</scale>
@@ -42,7 +42,7 @@
 		<Placemark>
 			<name>R1 Airport</name>
 			<Snippet maxLines="2"></Snippet>
-			<styleUrl>#LineStyle00</styleUrl>
+			<styleUrl>#LineStyle01</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<tessellate>1</tessellate>
