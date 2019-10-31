@@ -9,7 +9,7 @@
 		</LabelStyle>
 		<LineStyle>
 			<color>#ff0000ff</color>
-			<width>1</width>
+			<width>2</width>
 		</LineStyle>
 	</Style>
 	<Style id="LineStyle01">
@@ -19,7 +19,7 @@
 		</LabelStyle>
 		<LineStyle>
 			<color>#c5f50400</color>
-			<width>1</width>
+			<width>2</width>
 		</LineStyle>
 	</Style>c5f50400
 	<Folder id="FeatureLayer0">
